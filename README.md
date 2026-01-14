@@ -22,7 +22,10 @@
 			<p></p>
 			<br></br>
 			<h2>JSTL</h2>
-			<li><a href="https://tomcat.apache.org/download-taglibs.cgi">https://tomcat.apache.org/download-taglibs.cgi</a></li>
+			<li><a href="https://repo1.maven.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar">https://repo1.maven.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar</a></li>
+			<p></p>
+			<h2>JSTL</h2>
+			<li><a href="https://repo1.maven.org/maven2/org/glassfish/web/jakarta.servlet.jsp.jstl/3.0.1/jakarta.servlet.jsp.jstl-3.0.1.jar">https://repo1.maven.org/maven2/org/glassfish/web/jakarta.servlet.jsp.jstl/3.0.1/jakarta.servlet.jsp.jstl-3.0.1.jar</a></li>
 			<p></p>
       <br></br>
 			<h2>MySQL Server</h2>
