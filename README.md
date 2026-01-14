@@ -9,8 +9,8 @@
 		<h1>Descargas :</h1>
 		<p></p>
 		<ul>
-			<h2>Java JDK 8</h2>
-			<li><a href="https://www.oracle.com/java/technologies/downloads/archive/">https://www.oracle.com/java/technologies/downloads/archive/</a></li>
+			<h2>Java SE 21</h2>
+			<li><a href="https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html">https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html</a></li>
 			<p></p>
 			<br></br>
 			<h2>Eclipse IDE</h2>
